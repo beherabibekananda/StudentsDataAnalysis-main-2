@@ -102,7 +102,7 @@ const Sidebar = ({ activeSection, setActiveSection }) => {
             </div>
             <div>
               <p className="text-sm font-medium text-white">Bibekananda Behera</p>
-              <p className="text-xs text-gray-400">Developer</p>
+              <p className="text-xs text-gray-400">Developer m</p>
             </div>
           </div>
         </div>
